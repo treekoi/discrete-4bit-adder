@@ -37,5 +37,5 @@ Stay tuned! Once the routing errors are resolved and the board is fully validate
 - Assembly Guide
 
 ---
-*Designed by Shihan @ ElectroSpark*
+*Designed by Shihan @*
 *University of Alabama at Birmingham (UAB)*
